@@ -42,5 +42,3 @@ We use a dfs - dijkstra approach to our algorithm so that it remains generic and
 
 ![Robot image](img/rob.jpg)
 
-![Robot image](img/robb.jpg)
-
